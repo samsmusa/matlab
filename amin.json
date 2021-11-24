@@ -1,10 +1,16 @@
-[
-    {"id":"1","name":"apple"},
-    {"id":"1","name":"apple"},
-    {"id":"1","name":"apple"},
-    {"id":"1","name":"apple"},
-    {"id":"1","name":"apple"},
-    {"id":"1","name":"apple"},
-    {"id":"1","name":"apple"}
-
-]
+{
+  "inventoryTypeData": [{
+    "id": 1,
+    "name": "scanning equipment"
+  }, {
+    "id": 2,
+    "name": "ecg machine"
+  }, {
+    "id": 3,
+    "name": "ct-scan machine"
+  }, {
+    "id": 7,
+    "name": "x-ray machine"
+  }],
+  "success": "true"
+}
